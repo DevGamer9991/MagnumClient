@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.geeky.magnumclient.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "TitleScreenMixin",
+    "InGameHudMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "ClientAccessor",
+    "GameNameMixin",
+    "PauseMenuMixin",
+    "MixinWorldRenderer",
+    "WorldMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

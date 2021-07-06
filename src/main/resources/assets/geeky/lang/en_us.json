@@ -1,0 +1,9 @@
+{
+  "key.magnumclient.enableairjump": "Enable Air Jump Keybind",
+  "key.magnumclient.enableautotool": "Enable Auto Tool Keybind",
+  "key.magnumclient.enableflight": "Enable Flight Keybind",
+  "key.magnumclient.enablefulbright": "Enable Fulbright Keybind",
+  "key.magnumclient.enablejesus": "Enable Jesus Keybind",
+  "key.magnumclient.openhackmenu": "Hack Menu Keybind",
+  "key.category.geeky.magnumhacks": "Magnum Client Keybinds"
+}
