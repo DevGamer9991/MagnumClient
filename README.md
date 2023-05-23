@@ -1,3 +1,3 @@
 # Magnum Client
 
-It's a Simple Minecraft Client Written in Java
+A very bad minecraft hacked client. (I wrote it when i was like 14)
